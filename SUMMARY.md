@@ -75,6 +75,7 @@
   * [101. Symmetric Tree](tree/101.-symmetric-tree.md)
   * [102. Binary Tree Level Order Traversal](tree/102.-binary-tree-level-order-traversal.md)
   * [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
+  * [110. Balanced Binary Tree](tree/110.-balanced-binary-tree.md)
   * [111. Minimum Depth of Binary Tree](tree/111.-minimum-depth-of-binary-tree.md)
   * [112. Path Sum](tree/112.-path-sum.md)
   * [113. Path Sum II](tree/113.-path-sum-ii.md)
