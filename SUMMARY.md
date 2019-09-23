@@ -79,6 +79,7 @@
   * [111. Minimum Depth of Binary Tree](tree/111.-minimum-depth-of-binary-tree.md)
   * [112. Path Sum](tree/112.-path-sum.md)
   * [113. Path Sum II](tree/113.-path-sum-ii.md)
+  * [124. Binary Tree Maximum Path Sum](tree/124.-binary-tree-maximum-path-sum.md)
   * [129. Sum Root to Leaf Numbers](tree/129.-sum-root-to-leaf-numbers.md)
   * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
   * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
