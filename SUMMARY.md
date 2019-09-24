@@ -84,6 +84,7 @@
   * [144. Binary Tree Preorder Traversal](tree/144.-binary-tree-preorder-traversal.md)
   * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
   * [226. Invert Binary Tree](tree/226.-invert-binary-tree.md)
+  * [250. Count Univalue Subtrees](tree/250.-count-univalue-subtrees.md)
   * [257. Binary Tree Paths](tree/257.-binary-tree-paths.md)
   * [298. Binary Tree Longest Consecutive Sequence](tree/298.-binary-tree-longest-consecutive-sequence.md)
   * [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
