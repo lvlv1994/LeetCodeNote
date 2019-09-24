@@ -87,6 +87,7 @@
   * [250. Count Univalue Subtrees](tree/250.-count-univalue-subtrees.md)
   * [257. Binary Tree Paths](tree/257.-binary-tree-paths.md)
   * [298. Binary Tree Longest Consecutive Sequence](tree/298.-binary-tree-longest-consecutive-sequence.md)
+  * [366. Find Leaves of Binary Tree](tree/366.-find-leaves-of-binary-tree.md)
   * [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree.md)
   * [687. Longest Univalue Path](tree/687.-longest-univalue-path.md)
   * [230. Kth Smallest Element in a BST](tree/230.-kth-smallest-element-in-a-bst.md)
