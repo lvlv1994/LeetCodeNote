@@ -74,6 +74,7 @@
   * [100. Same Tree](tree/100.-same-tree.md)
   * [101. Symmetric Tree](tree/101.-symmetric-tree.md)
   * [102. Binary Tree Level Order Traversal](tree/102.-binary-tree-level-order-traversal.md)
+  * [103. Binary Tree Zigzag Level Order Traversal](tree/103.-binary-tree-zigzag-level-order-traversal.md)
   * [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
   * [107. Binary Tree Level Order Traversal II](tree/107.-binary-tree-level-order-traversal-ii.md)
   * [110. Balanced Binary Tree](tree/110.-balanced-binary-tree.md)
