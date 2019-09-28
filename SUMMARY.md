@@ -88,6 +88,7 @@
   * [145. Binary Tree Postorder Traversal](tree/145.-binary-tree-postorder-traversal.md)
   * [199. Binary Tree Right Side View](tree/199.-binary-tree-right-side-view.md)
   * [226. Invert Binary Tree](tree/226.-invert-binary-tree.md)
+  * [235. Lowest Common Ancestor of a Binary Search Tree](tree/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
   * [250. Count Univalue Subtrees](tree/250.-count-univalue-subtrees.md)
   * [257. Binary Tree Paths](tree/257.-binary-tree-paths.md)
   * [298. Binary Tree Longest Consecutive Sequence](tree/298.-binary-tree-longest-consecutive-sequence.md)
