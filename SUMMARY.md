@@ -96,6 +96,8 @@
   * [236. Lowest Common Ancestor of a Binary Tree](tree/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [250. Count Univalue Subtrees](tree/250.-count-univalue-subtrees.md)
   * [257. Binary Tree Paths](tree/257.-binary-tree-paths.md)
+  * [270. Closest Binary Search Tree Value](tree/270.-closest-binary-search-tree-value.md)
+  * [272. Closest Binary Search Tree Value II](tree/272.-closest-binary-search-tree-value-ii.md)
   * [285. Inorder Successor in BST](tree/285.-inorder-successor-in-bst.md)
   * [297. Serialize and Deserialize Binary Tree](tree/untitled-1.md)
   * [298. Binary Tree Longest Consecutive Sequence](tree/298.-binary-tree-longest-consecutive-sequence.md)
