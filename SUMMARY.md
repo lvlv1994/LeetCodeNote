@@ -72,6 +72,7 @@
 * [Tree](tree/README.md)
   * [94. Binary Tree Inorder Traversal](tree/94.-binary-tree-inorder-traversal.md)
   * [98. Validate Binary Search Tree](tree/98.-validate-binary-search-tree-1.md)
+  * [99. Recover Binary Search Tree](tree/99.-recover-binary-search-tree.md)
   * [100. Same Tree](tree/100.-same-tree.md)
   * [101. Symmetric Tree](tree/101.-symmetric-tree.md)
   * [102. Binary Tree Level Order Traversal](tree/102.-binary-tree-level-order-traversal.md)
