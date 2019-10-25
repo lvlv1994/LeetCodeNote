@@ -23,6 +23,7 @@
   * [676. Implement Magic Dictionary](hash-table/676.-implement-magic-dictionary.md)
 * [Back Tracking](back-tracking/README.md)
   * [39. Combination Sum](back-tracking/39.-combination-sum.md)
+  * [40. Combination Sum II](back-tracking/40.-combination-sum-ii.md)
   * [46. Permutations](back-tracking/46.-permutations.md)
   * [47. Permutations II](back-tracking/untitled-1.md)
   * [77. Combinations](back-tracking/77.-combinations.md)
