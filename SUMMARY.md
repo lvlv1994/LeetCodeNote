@@ -31,6 +31,7 @@
   * [79. Word Search](back-tracking/79.-word-search.md)
   * [90. Subsets II](back-tracking/90.-subsets-ii.md)
   * [254. Factor Combinations](back-tracking/254.-factor-combinations.md)
+  * [291. Word Pattern II](back-tracking/291.-word-pattern-ii.md)
   * [294. Flip Game II](back-tracking/294.-flip-game-ii.md)
   * [320. Generalized Abbreviation](back-tracking/320.-generalized-abbreviation.md)
   * [351. Android Unlock Patterns](back-tracking/351.-android-unlock-patterns.md)
