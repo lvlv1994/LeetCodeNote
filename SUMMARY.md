@@ -31,6 +31,7 @@
   * [78. Subsets](back-tracking/78.-subsets.md)
   * [79. Word Search](back-tracking/79.-word-search.md)
   * [90. Subsets II](back-tracking/90.-subsets-ii.md)
+  * [93. Restore IP Addresses](back-tracking/93.-restore-ip-addresses.md)
   * [254. Factor Combinations](back-tracking/254.-factor-combinations.md)
   * [291. Word Pattern II](back-tracking/291.-word-pattern-ii.md)
   * [294. Flip Game II](back-tracking/294.-flip-game-ii.md)
