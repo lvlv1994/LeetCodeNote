@@ -43,6 +43,7 @@
   * [401. Binary Watch](back-tracking/401.-binary-watch.md)
 * [DFS](dfs/README.md)
   * [200. Number of Islands](dfs/200.-number-of-islands.md)
+  * [286. Walls and Gates](dfs/286.-walls-and-gates.md)
   * [332. Reconstruct Itinerary](dfs/untitled-1.md)
   * [417. Pacific Atlantic Water Flow](dfs/untitled-1-1.md)
   * [756. Pyramid Transition Matrix](dfs/756.-pyramid-transition-matrix.md)
