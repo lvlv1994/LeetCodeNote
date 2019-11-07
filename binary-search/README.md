@@ -1,16 +1,7 @@
 # Binary Search
 
 ```text
-def binary_search(inputs,key):
-    left,right = 0,len(inputs)-1
-    while left <= right:
-        mid = (left+right)/2
-        if inputs[mid] >= key:
-            right = mid -1
-        else:
-            left = mid + 1
-    return left
-print(binary_search([1,2,3,4,5],3))
+def binary_search(inputs,key):    left,right = 0,len(inputs)-1    while left <= right:        mid = (left+right)/2        if inputs[mid] >= key:            right = mid -1        else:            left = mid + 1    return leftprint(binary_search([1,2,3,4,5],3))
 ```
 
 ```text
