@@ -155,6 +155,8 @@
   * [2. Add Two Numbers](untitled/2.-add-two-numbers.md)
 * [String](string-1.md)
 * [Binary Search](binary-search/README.md)
+  * [35. Search Insert Position](binary-search/35.-search-insert-position.md)
+  * [278. First Bad Version](binary-search/278.-first-bad-version.md)
   * [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
   * [658. find k closest elements](binary-search/658.-find-k-closest-elements.md)
 * [Math](math/README.md)
