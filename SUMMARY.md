@@ -160,6 +160,7 @@
   * [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
   * [658. find k closest elements](binary-search/658.-find-k-closest-elements.md)
 * [Math](math/README.md)
+  * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
 * [Array](array/README.md)
   * [maxSumWithK](array/maxsumwithk.md)

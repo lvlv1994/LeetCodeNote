@@ -1,10 +1,4 @@
----
-description: 'https://www.jianshu.com/p/b6ad653fb2e1'
----
-
 # Binary Search
-
-链接里的这个模版很好用，注意左右边界的检查，如果用的是mid = left + \(right - left \) // 2，就要先判断left, 反之，如果是mid = left + \(right - left + 1 \) // 2，就先判断right
 
 ```text
 def binary_search(inputs,key):
