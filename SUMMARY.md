@@ -99,6 +99,7 @@
   * [1383. Maximum Performance of a Team](heap/1383.-maximum-performance-of-a-team.md)
   * [786. K-th Smallest Prime Fraction](heap/786.-k-th-smallest-prime-fraction.md)
 * [Trie](trie/README.md)
+  * [472. Concatenated Words](trie/472.-concatenated-words.md)
   * [212. Word Search II](trie/212.-word-search-ii.md)
   * [425. Word Squares](trie/425.-word-squares.md)
 * [Tree](tree/README.md)

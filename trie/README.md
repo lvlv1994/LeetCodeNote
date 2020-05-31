@@ -18,7 +18,7 @@ for word in words:
 
 ```text
     def build(self,words):
-        
+         
         for word in words:
             root = self.root
             for c in word:
