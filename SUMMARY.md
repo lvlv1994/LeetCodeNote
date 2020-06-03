@@ -63,6 +63,7 @@
   * [499. The Maze III](bsf/untitled.md)
   * [505. The Maze II](bsf/505.-the-maze-ii.md)
   * [994. Rotting Oranges](bsf/994.-rotting-oranges.md)
+  * [1368. Minimum Cost to Make at Least One Valid Path in a Grid](bsf/1368.-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.md)
   * [542. 01 Matrix](bsf/542.-01-matrix.md)
 * [String](string/README.md)
   * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
