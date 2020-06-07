@@ -63,6 +63,7 @@
   * [490. Tha Maze](bsf/490.-tha-maze.md)
   * [499. The Maze III](bsf/untitled.md)
   * [505. The Maze II](bsf/505.-the-maze-ii.md)
+  * [847. Shortest Path Visiting All Nodes](bsf/847.-shortest-path-visiting-all-nodes.md)
   * [994. Rotting Oranges](bsf/994.-rotting-oranges.md)
   * [1368. Minimum Cost to Make at Least One Valid Path in a Grid](bsf/1368.-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.md)
   * [1293. Shortest Path in a Grid with Obstacles Elimination](bsf/1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
