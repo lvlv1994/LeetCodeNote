@@ -63,6 +63,7 @@
   * [490. Tha Maze](bsf/490.-tha-maze.md)
   * [499. The Maze III](bsf/untitled.md)
   * [505. The Maze II](bsf/505.-the-maze-ii.md)
+  * [815. Bus Routes](bsf/815.-bus-routes.md)
   * [847. Shortest Path Visiting All Nodes](bsf/847.-shortest-path-visiting-all-nodes.md)
   * [994. Rotting Oranges](bsf/994.-rotting-oranges.md)
   * [1345. Jump Game IV](bsf/1345.-jump-game-iv.md)
