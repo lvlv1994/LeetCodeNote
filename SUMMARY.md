@@ -59,6 +59,7 @@
   * [126. Word Ladder II](bsf/126.-word-ladder-ii.md)
   * [127. Word Ladder](bsf/127.-word-ladder.md)
   * [130. Surrounded Regions](bsf/130.-surrounded-regions.md)
+  * [210. Course Schedule II](bsf/210.-course-schedule-ii.md)
   * [269. Alien Dictionary](bsf/269.-alien-dictionary.md)
   * [286. Walls and Gates](bsf/286.-walls-and-gates.md)
   * [490. Tha Maze](bsf/490.-tha-maze.md)
