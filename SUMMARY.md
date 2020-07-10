@@ -188,6 +188,7 @@
   * [maxSumWithK](array/maxsumwithk.md)
   * [31. Next Permutation](array/31.-next-permutation.md)
   * [60. Permutation Sequence](array/60.-permutation-sequence.md)
+  * [136. Single Number](array/136.-single-number.md)
   * [152. Maximum Product Subarray](array/152.-maximum-product-subarray.md)
   * [169. Majority Element](array/169.-majority-element.md)
   * [247. Strobogrammatic Number II](array/247.-strobogrammatic-number-ii.md)
