@@ -154,6 +154,7 @@
   * [549. Binary Tree Longest Consecutive Sequence II](tree/549.-binary-tree-longest-consecutive-sequence-ii.md)
   * [687. Longest Univalue Path](tree/687.-longest-univalue-path.md)
   * [901. Closest Binary Search Tree Value II \(lintcode\)](tree/901.-closest-binary-search-tree-value-ii-lintcode.md)
+  * [1469. Find All The Lonely Nodes](tree/1469.-find-all-the-lonely-nodes.md)
 * [奇技淫巧](qi-ji-yin-qiao/README.md)
   * [531. Lonely Pixel I](qi-ji-yin-qiao/531.-lonely-pixel-i.md)
   * [244. Shortest Word Distance II](qi-ji-yin-qiao/244.-shortest-word-distance-ii.md)
