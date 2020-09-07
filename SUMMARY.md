@@ -74,6 +74,7 @@
   * [542. 01 Matrix](bsf/542.-01-matrix.md)
 * [String](string/README.md)
   * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
+  * [157 Read N Characters Given Read4](string/157-read-n-characters-given-read4.md)
   * [293. Flip Game](string/293.-flip-game.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
