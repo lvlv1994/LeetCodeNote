@@ -153,6 +153,7 @@
   * [366. Find Leaves of Binary Tree](tree/366.-find-leaves-of-binary-tree.md)
   * [543. Diameter of Binary Tree](tree/543.-diameter-of-binary-tree.md)
   * [549. Binary Tree Longest Consecutive Sequence II](tree/549.-binary-tree-longest-consecutive-sequence-ii.md)
+  * [559. Maximum Depth of N-ary Tree](tree/559.-maximum-depth-of-n-ary-tree.md)
   * [687. Longest Univalue Path](tree/687.-longest-univalue-path.md)
   * [901. Closest Binary Search Tree Value II \(lintcode\)](tree/901.-closest-binary-search-tree-value-ii-lintcode.md)
   * [1469. Find All The Lonely Nodes](tree/1469.-find-all-the-lonely-nodes.md)
