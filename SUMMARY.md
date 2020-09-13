@@ -187,6 +187,7 @@
 * [Math](math/README.md)
   * [Basic Calculator](math/basic-calculator.md)
   * [152. Maximum Product Subarray](math/152.-maximum-product-subarray.md)
+  * [216. Combination Sum III](math/216.-combination-sum-iii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
 * [Array](array/README.md)
