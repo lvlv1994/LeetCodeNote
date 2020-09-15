@@ -200,6 +200,7 @@
   * [136. Single Number](array/136.-single-number.md)
   * [152. Maximum Product Subarray](array/152.-maximum-product-subarray.md)
   * [169. Majority Element](array/169.-majority-element.md)
+  * [198. House Robber](array/198.-house-robber.md)
   * [247. Strobogrammatic Number II](array/247.-strobogrammatic-number-ii.md)
   * [340. Longest Substring with At Most K Distinct Characters](array/340.-longest-substring-with-at-most-k-distinct-characters.md)
   * [370. Range Addition](array/370.-range-addition.md)
