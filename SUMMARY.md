@@ -73,6 +73,7 @@
   * [1293. Shortest Path in a Grid with Obstacles Elimination](bsf/1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
   * [542. 01 Matrix](bsf/542.-01-matrix.md)
 * [String](string/README.md)
+  * [58. Length of Last Word](string/58.-length-of-last-word.md)
   * [299. Bulls and Cows](string/299.-bulls-and-cows.md)
   * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
   * [157 Read N Characters Given Read4](string/157-read-n-characters-given-read4.md)
