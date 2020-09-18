@@ -196,6 +196,7 @@
   * [216. Combination Sum III](math/216.-combination-sum-iii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
+  * [1041. Robot Bounded In Circle](math/1041.-robot-bounded-in-circle.md)
 * [Array](array/README.md)
   * [maxSumWithK](array/maxsumwithk.md)
   * [31. Next Permutation](array/31.-next-permutation.md)
