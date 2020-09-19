@@ -76,6 +76,7 @@
   * [58. Length of Last Word](string/58.-length-of-last-word.md)
   * [299. Bulls and Cows](string/299.-bulls-and-cows.md)
   * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
+  * [121. Best Time to Buy and Sell Stock](string/121.-best-time-to-buy-and-sell-stock.md)
   * [157 Read N Characters Given Read4](string/157-read-n-characters-given-read4.md)
   * [290. Word Pattern](string/290.-word-pattern.md)
   * [293. Flip Game](string/293.-flip-game.md)
