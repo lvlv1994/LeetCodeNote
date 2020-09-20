@@ -82,6 +82,7 @@
   * [290. Word Pattern](string/290.-word-pattern.md)
   * [293. Flip Game](string/293.-flip-game.md)
   * [459. Repeated Substring Pattern](string/459.-repeated-substring-pattern.md)
+  * [763. Partition Labels](string/763.-partition-labels.md)
   * [949. Largest Time for Given Digits](string/949.-largest-time-for-given-digits.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
