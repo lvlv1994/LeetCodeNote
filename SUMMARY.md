@@ -207,6 +207,7 @@
 * [1291. Sequential Digits](1291.-sequential-digits.md)
 * [Array](array/README.md)
   * [maxSumWithK](array/maxsumwithk.md)
+  * [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
   * [31. Next Permutation](array/31.-next-permutation.md)
   * [60. Permutation Sequence](array/60.-permutation-sequence.md)
   * [136. Single Number](array/136.-single-number.md)
