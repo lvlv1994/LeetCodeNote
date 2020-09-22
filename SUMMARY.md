@@ -84,6 +84,7 @@
   * [459. Repeated Substring Pattern](string/459.-repeated-substring-pattern.md)
   * [763. Partition Labels](string/763.-partition-labels.md)
   * [949. Largest Time for Given Digits](string/949.-largest-time-for-given-digits.md)
+  * [1094. Car Pooling](string/1094.-car-pooling.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [10. Regular Expression Matching](dynamic-programming/10.-regular-expression-matching.md)
   * [44. Wildcard Matching](dynamic-programming/untitled-1.md)
