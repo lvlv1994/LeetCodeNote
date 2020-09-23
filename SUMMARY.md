@@ -202,6 +202,7 @@
   * [Basic Calculator](math/basic-calculator.md)
   * [152. Maximum Product Subarray](math/152.-maximum-product-subarray.md)
   * [216. Combination Sum III](math/216.-combination-sum-iii.md)
+  * [229. Majority Element II](math/229.-majority-element-ii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
   * [1041. Robot Bounded In Circle](math/1041.-robot-bounded-in-circle.md)
