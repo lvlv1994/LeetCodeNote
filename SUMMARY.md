@@ -228,6 +228,7 @@
   * [370. Range Addition](array/370.-range-addition.md)
   * [442. Find All Duplicates in an Array](array/442.-find-all-duplicates-in-an-array.md)
   * [485. Max Consecutive Ones](array/485.-max-consecutive-ones.md)
+  * [495. Teemo Attacking](array/495.-teemo-attacking.md)
   * [565. Array Nesting](array/565.-array-nesting.md)
   * [581. Shortest Unsorted Continuous Subarray](array/581.-shortest-unsorted-continuous-subarray.md)
   * [665. Non-decreasing Array](array/untitled.md)
