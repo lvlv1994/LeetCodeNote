@@ -77,6 +77,7 @@
 * [String](string/README.md)
   * [7. Reverse Integer](string/untitled.md)
   * [8. String to Integer \(atoi\)](string/8.-string-to-integer-atoi.md)
+  * [Implement strStr\(\)Solution](string/implement-strstr-solution.md)
   * [58. Length of Last Word](string/58.-length-of-last-word/README.md)
     * [14. Longest Common Prefix](string/58.-length-of-last-word/14.-longest-common-prefix.md)
   * [125. Valid Palindrome](string/125.-valid-palindrome.md)
