@@ -81,6 +81,7 @@
   * [299. Bulls and Cows](string/299.-bulls-and-cows.md)
   * [121. Best Time to Buy and Sell Stock](string/121.-best-time-to-buy-and-sell-stock.md)
   * [157 Read N Characters Given Read4](string/157-read-n-characters-given-read4.md)
+  * [242. Valid Anagram](string/242.-valid-anagram.md)
   * [290. Word Pattern](string/290.-word-pattern.md)
   * [293. Flip Game](string/293.-flip-game.md)
   * [389. Find the Difference](string/389.-find-the-difference.md)
