@@ -53,6 +53,7 @@
   * [332. Reconstruct Itinerary](dfs/untitled-1.md)
   * [339. Nested List Weight Sum](dfs/339.-nested-list-weight-sum.md)
   * [364. Nested List Weight Sum II](dfs/364.-nested-list-weight-sum-ii.md)
+  * [399. Evaluate Division](dfs/399.-evaluate-division.md)
   * [417. Pacific Atlantic Water Flow](dfs/untitled-1-1.md)
   * [756. Pyramid Transition Matrix](dfs/756.-pyramid-transition-matrix.md)
   * [802. Find Eventual Safe States](dfs/802.-find-eventual-safe-states.md)
