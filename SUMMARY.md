@@ -78,6 +78,7 @@
   * [7. Reverse Integer](string/untitled.md)
   * [58. Length of Last Word](string/58.-length-of-last-word/README.md)
     * [14. Longest Common Prefix](string/58.-length-of-last-word/14.-longest-common-prefix.md)
+  * [125. Valid Palindrome](string/125.-valid-palindrome.md)
   * [299. Bulls and Cows](string/299.-bulls-and-cows.md)
   * [121. Best Time to Buy and Sell Stock](string/121.-best-time-to-buy-and-sell-stock.md)
   * [157 Read N Characters Given Read4](string/157-read-n-characters-given-read4.md)
