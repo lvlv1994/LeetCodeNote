@@ -80,6 +80,7 @@
   * [14. Longest Common Prefix](string/14.-longest-common-prefix.md)
   * [Implement strStr\(\)Solution](string/implement-strstr-solution.md)
   * [38. Count and Say](string/38.-count-and-say.md)
+  * [41. First Missing Positive](string/41.-first-missing-positive.md)
   * [58. Length of Last Word](string/58.-length-of-last-word/README.md)
     * [14. Longest Common Prefix](string/58.-length-of-last-word/14.-longest-common-prefix.md)
   * [125. Valid Palindrome](string/125.-valid-palindrome.md)
