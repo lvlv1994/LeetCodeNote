@@ -200,6 +200,7 @@
 * [LinkedList](untitled/README.md)
   * [2. Add Two Numbers](untitled/2.-add-two-numbers.md)
   * [19. Remove Nth Node From End of List](untitled/19.-remove-nth-node-from-end-of-list.md)
+  * [98. Validate Binary Search Tree](untitled/98.-validate-binary-search-tree.md)
   * [141. Linked List Cycle](untitled/141.-linked-list-cycle.md)
   * [146. LRU Cache](untitled/146.-lru-cache.md)
   * [234. Palindrome Linked List](untitled/234.-palindrome-linked-list.md)
