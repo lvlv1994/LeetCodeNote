@@ -238,6 +238,7 @@
   * [31. Next Permutation](array/31.-next-permutation.md)
   * [48. Rotate Image](array/48.-rotate-image.md)
   * [60. Permutation Sequence](array/60.-permutation-sequence.md)
+  * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
   * [179. Largest Number](array/179.-largest-number.md)
   * [136. Single Number](array/136.-single-number.md)
   * [152. Maximum Product Subarray](array/152.-maximum-product-subarray.md)
