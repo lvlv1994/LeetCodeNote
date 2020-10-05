@@ -193,6 +193,7 @@
   * [57. Insert Interval](interval/57.-insert-interval.md)
   * [163. Missing Ranges](interval/163.-missing-ranges.md)
   * [56. Merge Intervals](interval/56.-merge-intervals.md)
+  * [1288. Remove Covered Intervals](interval/1288.-remove-covered-intervals.md)
 * [topological sort](topological-sort/README.md)
   * [218. The Skyline Problem](topological-sort/218.-the-skyline-problem.md)
   * [444. Sequence Reconstruction](topological-sort/untitled/README.md)
