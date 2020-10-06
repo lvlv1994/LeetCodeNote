@@ -188,6 +188,7 @@
   * [22. Generate Parentheses](kuo-hao-wen-ti/untitled.md)
   * [32. Longest Valid Parentheses](kuo-hao-wen-ti/32.-longest-valid-parentheses.md)
 * [System Design](system-design/README.md)
+  * [155. Min Stack](system-design/155.-min-stack.md)
   * [271. Encode and Decode Strings](system-design/271.-encode-and-decode-strings.md)
 * [Interval](interval/README.md)
   * [57. Insert Interval](interval/57.-insert-interval.md)
