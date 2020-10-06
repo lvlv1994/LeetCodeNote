@@ -225,6 +225,7 @@
   * [134. Gas Station](math/134.-gas-station.md)
   * [152. Maximum Product Subarray](math/152.-maximum-product-subarray.md)
   * [169. Majority Element](math/169.-majority-element.md)
+  * [204. Count Primes](math/204.-count-primes-1.md)
   * [216. Combination Sum III](math/216.-combination-sum-iii.md)
   * [229. Majority Element II](math/229.-majority-element-ii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
