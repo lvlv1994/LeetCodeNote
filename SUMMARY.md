@@ -229,6 +229,7 @@
   * [229. Majority Element II](math/229.-majority-element-ii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
+  * [412. Fizz Buzz](math/412.-fizz-buzz.md)
   * [425. Word Squares](math/425.-word-squares.md)
   * [624. Maximum Distance in Arrays](math/624.-maximum-distance-in-arrays.md)
   * [713. Subarray Product Less Than K](math/713.-subarray-product-less-than-k.md)
