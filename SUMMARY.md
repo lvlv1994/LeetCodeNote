@@ -266,6 +266,7 @@
   * [832. Flipping an Image](array/832.-flipping-an-image.md)
   * [849. Maximize Distance to Closest Person](array/849.-maximize-distance-to-closest-person.md)
 * [Bitwise](bitwise/README.md)
+  * [191. Number of 1 Bits](bitwise/191.-number-of-1-bits.md)
   * [389. Find the Difference](bitwise/389.-find-the-difference.md)
   * [401. Binary Watch](bitwise/untitled.md)
   * [231. Power of Two](bitwise/231.-power-of-two.md)
