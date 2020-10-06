@@ -267,6 +267,7 @@
   * [421. Maximum XOR of Two Numbers in an Array](bitwise/untitled-1.md)
   * [318. Maximum Product of Word Lengths](bitwise/318.-maximum-product-of-word-lengths.md)
   * [397. Integer Replacement](bitwise/untitled-2.md)
+  * [1009. Complement of Base 10 Integer](bitwise/1009.-complement-of-base-10-integer.md)
 * [考前偷看](kao-qian-tou-kan.md)
 * [Two pointer](two-pointer/README.md)
   * [838. Push Dominoes](two-pointer/838.-push-dominoes.md)
