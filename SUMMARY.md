@@ -187,6 +187,7 @@
   * [Ugly number](qi-ji-yin-qiao/ugly-number.md)
 * [括号问题](kuo-hao-wen-ti/README.md)
   * [394. Decode String](kuo-hao-wen-ti/394.-decode-string.md)
+  * [20. Valid Parentheses](kuo-hao-wen-ti/20.-valid-parentheses.md)
   * [22. Generate Parentheses](kuo-hao-wen-ti/untitled.md)
   * [32. Longest Valid Parentheses](kuo-hao-wen-ti/32.-longest-valid-parentheses.md)
 * [System Design](system-design/README.md)
