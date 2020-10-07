@@ -174,6 +174,7 @@
   * [549. Binary Tree Longest Consecutive Sequence II](tree/549.-binary-tree-longest-consecutive-sequence-ii.md)
   * [559. Maximum Depth of N-ary Tree](tree/559.-maximum-depth-of-n-ary-tree.md)
   * [687. Longest Univalue Path](tree/687.-longest-univalue-path.md)
+  * [701. Insert into a Binary Search Tree](tree/701.-insert-into-a-binary-search-tree.md)
   * [901. Closest Binary Search Tree Value II \(lintcode\)](tree/901.-closest-binary-search-tree-value-ii-lintcode.md)
   * [1302. Deepest Leaves Sum](tree/1302.-deepest-leaves-sum.md)
   * [1315. Sum of Nodes with Even-Valued Grandparent](tree/1315.-sum-of-nodes-with-even-valued-grandparent.md)
