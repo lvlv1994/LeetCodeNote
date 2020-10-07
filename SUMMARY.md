@@ -224,6 +224,7 @@
   * [13. Roman to Integer](math/13.-roman-to-integer.md)
   * [1291. Sequential Digits](math/1291.-sequential-digits.md)
   * [Basic Calculator](math/basic-calculator.md)
+  * [118. Pascal's Triangle](math/118.-pascals-triangle.md)
   * [122. Best Time to Buy and Sell Stock II](math/122.-best-time-to-buy-and-sell-stock-ii.md)
   * [134. Gas Station](math/134.-gas-station.md)
   * [152. Maximum Product Subarray](math/152.-maximum-product-subarray.md)
