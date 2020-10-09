@@ -205,6 +205,7 @@
 * [LinkedList](untitled/README.md)
   * [2. Add Two Numbers](untitled/2.-add-two-numbers.md)
   * [19. Remove Nth Node From End of List](untitled/19.-remove-nth-node-from-end-of-list.md)
+  * [24. Swap Nodes in Pairs](untitled/24.-swap-nodes-in-pairs.md)
   * [61. Rotate List](untitled/61.-rotate-list.md)
   * [98. Validate Binary Search Tree](untitled/98.-validate-binary-search-tree.md)
   * [101. Symmetric Tree](untitled/101.-symmetric-tree.md)
