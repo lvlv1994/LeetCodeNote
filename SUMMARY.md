@@ -197,6 +197,7 @@
   * [57. Insert Interval](interval/57.-insert-interval.md)
   * [163. Missing Ranges](interval/163.-missing-ranges.md)
   * [56. Merge Intervals](interval/56.-merge-intervals.md)
+  * [452. Minimum Number of Arrows to Burst Balloons](interval/452.-minimum-number-of-arrows-to-burst-balloons.md)
   * [1288. Remove Covered Intervals](interval/1288.-remove-covered-intervals.md)
 * [topological sort](topological-sort/README.md)
   * [218. The Skyline Problem](topological-sort/218.-the-skyline-problem.md)
