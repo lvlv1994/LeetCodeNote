@@ -274,6 +274,7 @@
   * [769. Max Chunks To Make Sorted](array/769.-max-chunks-to-make-sorted.md)
   * [832. Flipping an Image](array/832.-flipping-an-image.md)
   * [849. Maximize Distance to Closest Person](array/849.-maximize-distance-to-closest-person.md)
+* [1081. Smallest Subsequence of Distinct Characters](1081.-smallest-subsequence-of-distinct-characters.md)
 * [Bitwise](bitwise/README.md)
   * [190. Reverse Bits](bitwise/190.-reverse-bits.md)
   * [191. Number of 1 Bits](bitwise/191.-number-of-1-bits.md)
