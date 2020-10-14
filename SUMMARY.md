@@ -14,6 +14,7 @@
   * [215. Kth Largest Element in an Array](sort/215.-kth-largest-element-in-an-array.md)
   * [220. Contains Duplicate III](sort/220.-contains-duplicate-iii.md)
   * [315. Count of Smaller Numbers After Self](sort/315.-count-of-smaller-numbers-after-self.md)
+  * [912. Sort an Array](sort/912.-sort-an-array.md)
 * [Hash Table](hash-table/README.md)
   * [41. First Missing Positive](hash-table/41.-first-missing-positive.md)
   * [734. Sentence Similarity](hash-table/734.-sentence-similarity.md)
