@@ -144,6 +144,7 @@
   * [102. Binary Tree Level Order Traversal](tree/102.-binary-tree-level-order-traversal.md)
   * [103. Binary Tree Zigzag Level Order Traversal](tree/103.-binary-tree-zigzag-level-order-traversal.md)
   * [104. Maximum Depth of Binary Tree](tree/104.-maximum-depth-of-binary-tree.md)
+  * [105. Construct Binary Tree from Preorder and Inorder Traversal](tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [107. Binary Tree Level Order Traversal II](tree/107.-binary-tree-level-order-traversal-ii.md)
   * [108. Convert Sorted Array to Binary Search Tree](tree/108.-convert-sorted-array-to-binary-search-tree.md)
   * [109. Convert Sorted List to Binary Search Tree](tree/109.-convert-sorted-list-to-binary-search-tree.md)
