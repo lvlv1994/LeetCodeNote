@@ -200,6 +200,7 @@
   * [57. Insert Interval](interval/57.-insert-interval.md)
   * [163. Missing Ranges](interval/163.-missing-ranges.md)
   * [56. Merge Intervals](interval/56.-merge-intervals.md)
+  * [252. Meeting Rooms](interval/252.-meeting-rooms.md)
   * [253. Meeting Rooms II](interval/253.-meeting-rooms-ii.md)
   * [452. Minimum Number of Arrows to Burst Balloons](interval/452.-minimum-number-of-arrows-to-burst-balloons.md)
   * [1288. Remove Covered Intervals](interval/1288.-remove-covered-intervals.md)
