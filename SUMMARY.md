@@ -225,6 +225,7 @@
 * [String](string-1.md)
 * [Binary Search](binary-search/README.md)
   * [35. Search Insert Position](binary-search/35.-search-insert-position.md)
+  * [153. Find Minimum in Rotated Sorted Array](binary-search/153.-find-minimum-in-rotated-sorted-array.md)
   * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
   * [183. Wood Cut](binary-search/183.-wood-cut.md)
   * [278. First Bad Version](binary-search/278.-first-bad-version.md)
