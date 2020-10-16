@@ -225,6 +225,7 @@
 * [String](string-1.md)
 * [Binary Search](binary-search/README.md)
   * [35. Search Insert Position](binary-search/35.-search-insert-position.md)
+  * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
   * [183. Wood Cut](binary-search/183.-wood-cut.md)
   * [278. First Bad Version](binary-search/278.-first-bad-version.md)
   * [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
