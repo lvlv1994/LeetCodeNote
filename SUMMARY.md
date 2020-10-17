@@ -233,6 +233,7 @@
   * [278. First Bad Version](binary-search/278.-first-bad-version.md)
   * [374. Guess Number Higher or Lower](binary-search/374.-guess-number-higher-or-lower.md)
   * [658. find k closest elements](binary-search/658.-find-k-closest-elements.md)
+  * [702. Search in a Sorted Array of Unknown Size](binary-search/702.-search-in-a-sorted-array-of-unknown-size.md)
 * [Math](math/README.md)
   * [13. Roman to Integer](math/13.-roman-to-integer.md)
   * [1291. Sequential Digits](math/1291.-sequential-digits.md)
