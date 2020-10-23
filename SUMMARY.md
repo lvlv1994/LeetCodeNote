@@ -40,6 +40,7 @@
   * [93. Restore IP Addresses](back-tracking/93.-restore-ip-addresses.md)
   * [140. Word Break II](back-tracking/140.-word-break-ii.md)
   * [254. Factor Combinations](back-tracking/254.-factor-combinations.md)
+  * [261. Graph Valid Tree](back-tracking/261.-graph-valid-tree.md)
   * [282. Expression Add Operators](back-tracking/282.-expression-add-operators.md)
   * [291. Word Pattern II](back-tracking/291.-word-pattern-ii.md)
   * [294. Flip Game II](back-tracking/294.-flip-game-ii.md)
