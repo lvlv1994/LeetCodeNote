@@ -302,4 +302,6 @@
   * [838. Push Dominoes](two-pointer/838.-push-dominoes.md)
   * [76. Minimum Window Substring](two-pointer/76.-minimum-window-substring.md)
   * [777. Swap Adjacent in LR String](two-pointer/777.-swap-adjacent-in-lr-string.md)
+* [Greedy](greedy/README.md)
+  * [948. Bag of Tokens](greedy/948.-bag-of-tokens.md)
 
