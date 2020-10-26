@@ -128,6 +128,7 @@
   * [779. K-th Symbol in Grammar](dynamic-programming/779.-k-th-symbol-in-grammar.md)
   * [789. Escape The Ghosts](dynamic-programming/untitled-3.md)
   * [808. Soup Servings](dynamic-programming/808.-soup-servings.md)
+* [1510. Stone Game IV](1510.-stone-game-iv.md)
 * [Heap](heap/README.md)
   * [1383. Maximum Performance of a Team](heap/1383.-maximum-performance-of-a-team.md)
   * [786. K-th Smallest Prime Fraction](heap/786.-k-th-smallest-prime-fraction.md)
