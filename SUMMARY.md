@@ -271,6 +271,7 @@
   * [169. Majority Element](array/169.-majority-element.md)
   * [189. Rotate Array](array/189.-rotate-array.md)
   * [198. House Robber](array/198.-house-robber.md)
+  * [228. Summary Ranges](array/228.-summary-ranges.md)
   * [247. Strobogrammatic Number II](array/247.-strobogrammatic-number-ii.md)
   * [283. Move Zeroes](array/283.-move-zeroes.md)
   * [316. Remove Duplicate Letters](array/316.-remove-duplicate-letters.md)
