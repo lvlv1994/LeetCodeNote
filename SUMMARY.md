@@ -127,6 +127,7 @@
   * [House Robber III](dynamic-programming/house-robber-iii.md)
   * [650. 2 Keys Keyboard](dynamic-programming/650.-2-keys-keyboard.md)
   * [651. 4 Keys Keyboard](dynamic-programming/untitled-4.md)
+  * [673. Number of Longest Increasing Subsequence](dynamic-programming/673.-number-of-longest-increasing-subsequence.md)
   * [779. K-th Symbol in Grammar](dynamic-programming/779.-k-th-symbol-in-grammar.md)
   * [789. Escape The Ghosts](dynamic-programming/untitled-3.md)
   * [808. Soup Servings](dynamic-programming/808.-soup-servings.md)
