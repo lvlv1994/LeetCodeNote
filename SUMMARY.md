@@ -188,6 +188,7 @@
   * [993. Cousins in Binary Tree](tree/993.-cousins-in-binary-tree.md)
   * [1302. Deepest Leaves Sum](tree/1302.-deepest-leaves-sum.md)
   * [1315. Sum of Nodes with Even-Valued Grandparent](tree/1315.-sum-of-nodes-with-even-valued-grandparent.md)
+  * [1485. Clone Binary Tree With Random Pointer](tree/1485.-clone-binary-tree-with-random-pointer.md)
   * [1469. Find All The Lonely Nodes](tree/1469.-find-all-the-lonely-nodes.md)
   * [1490. Clone N-ary Tree](tree/1490.-clone-n-ary-tree.md)
 * [奇技淫巧](qi-ji-yin-qiao/README.md)
