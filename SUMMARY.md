@@ -53,6 +53,7 @@
   * [51. N-Queens](dfs/51.-n-queens.md)
   * [52. N-Queens II](dfs/52.-n-queens-ii.md)
   * [200. Number of Islands](dfs/200.-number-of-islands.md)
+  * [301. Remove Invalid Parentheses](dfs/301.-remove-invalid-parentheses.md)
   * [332. Reconstruct Itinerary](dfs/untitled-1.md)
   * [339. Nested List Weight Sum](dfs/339.-nested-list-weight-sum.md)
   * [364. Nested List Weight Sum II](dfs/364.-nested-list-weight-sum-ii.md)
