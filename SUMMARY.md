@@ -73,6 +73,7 @@
   * [815. Bus Routes](bsf/815.-bus-routes.md)
   * [847. Shortest Path Visiting All Nodes](bsf/847.-shortest-path-visiting-all-nodes.md)
   * [994. Rotting Oranges](bsf/994.-rotting-oranges.md)
+  * [1197. Minimum Knight Moves](bsf/1197.-minimum-knight-moves.md)
   * [1345. Jump Game IV](bsf/1345.-jump-game-iv.md)
   * [1368. Minimum Cost to Make at Least One Valid Path in a Grid](bsf/1368.-minimum-cost-to-make-at-least-one-valid-path-in-a-grid.md)
   * [1293. Shortest Path in a Grid with Obstacles Elimination](bsf/1293.-shortest-path-in-a-grid-with-obstacles-elimination.md)
