@@ -180,6 +180,7 @@
   * [285. Inorder Successor in BST](tree/285.-inorder-successor-in-bst.md)
   * [297. Serialize and Deserialize Binary Tree](tree/untitled-1.md)
   * [298. Binary Tree Longest Consecutive Sequence](tree/298.-binary-tree-longest-consecutive-sequence.md)
+  * [310. Minimum Height Trees](tree/310.-minimum-height-trees.md)
   * [337. House Robber III](tree/337.-house-robber-iii.md)
   * [366. Find Leaves of Binary Tree](tree/366.-find-leaves-of-binary-tree.md)
   * [431. Encode N-ary Tree to Binary Tree](tree/431.-encode-n-ary-tree-to-binary-tree.md)
