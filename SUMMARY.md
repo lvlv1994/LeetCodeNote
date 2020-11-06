@@ -304,6 +304,7 @@
   * [769. Max Chunks To Make Sorted](array/769.-max-chunks-to-make-sorted.md)
   * [832. Flipping an Image](array/832.-flipping-an-image.md)
   * [849. Maximize Distance to Closest Person](array/849.-maximize-distance-to-closest-person.md)
+  * [1217. Minimum Cost to Move Chips to The Same Position](array/1217.-minimum-cost-to-move-chips-to-the-same-position.md)
   * [1446. Consecutive Characters](array/1446.-consecutive-characters.md)
 * [Bitwise](bitwise/README.md)
   * [190. Reverse Bits](bitwise/190.-reverse-bits.md)
