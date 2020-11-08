@@ -103,6 +103,7 @@
   * [389. Find the Difference](string/389.-find-the-difference.md)
   * [459. Repeated Substring Pattern](string/459.-repeated-substring-pattern.md)
   * [763. Partition Labels](string/763.-partition-labels.md)
+  * [816. Ambiguous Coordinates](string/816.-ambiguous-coordinates.md)
   * [949. Largest Time for Given Digits](string/949.-largest-time-for-given-digits.md)
   * [1094. Car Pooling](string/1094.-car-pooling.md)
   * [1153. String Transforms Into Another String](string/1153.-string-transforms-into-another-string.md)
