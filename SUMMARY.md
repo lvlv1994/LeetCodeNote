@@ -275,6 +275,7 @@
   * [624. Maximum Distance in Arrays](math/624.-maximum-distance-in-arrays.md)
   * [713. Subarray Product Less Than K](math/713.-subarray-product-less-than-k.md)
   * [1041. Robot Bounded In Circle](math/1041.-robot-bounded-in-circle.md)
+  * [1359. Count All Valid Pickup and Delivery Options](math/1359.-count-all-valid-pickup-and-delivery-options.md)
 * [Array](array/README.md)
   * [1081. Smallest Subsequence of Distinct Characters](array/1081.-smallest-subsequence-of-distinct-characters.md)
   * [maxSumWithK](array/maxsumwithk.md)
