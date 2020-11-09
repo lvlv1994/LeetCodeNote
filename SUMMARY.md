@@ -214,6 +214,7 @@
 * [System Design](system-design/README.md)
   * [155. Min Stack](system-design/155.-min-stack.md)
   * [271. Encode and Decode Strings](system-design/271.-encode-and-decode-strings.md)
+  * [1472. Design Browser History](system-design/1472.-design-browser-history.md)
 * [Interval](interval/README.md)
   * [57. Insert Interval](interval/57.-insert-interval.md)
   * [163. Missing Ranges](interval/163.-missing-ranges.md)
