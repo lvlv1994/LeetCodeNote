@@ -50,6 +50,7 @@
   * [401. Binary Watch](back-tracking/401.-binary-watch.md)
 * [DFS](dfs/README.md)
   * [Untitled](dfs/untitled.md)
+  * [22. Generate Parentheses](dfs/22.-generate-parentheses.md)
   * [51. N-Queens](dfs/51.-n-queens.md)
   * [52. N-Queens II](dfs/52.-n-queens-ii.md)
   * [140. Word Break II](dfs/140.-word-break-ii.md)
