@@ -197,6 +197,7 @@
   * [687. Longest Univalue Path](tree/687.-longest-univalue-path.md)
   * [701. Insert into a Binary Search Tree](tree/701.-insert-into-a-binary-search-tree.md)
   * [901. Closest Binary Search Tree Value II \(lintcode\)](tree/901.-closest-binary-search-tree-value-ii-lintcode.md)
+  * [979. Distribute Coins in Binary Tree](tree/979.-distribute-coins-in-binary-tree.md)
   * [993. Cousins in Binary Tree](tree/993.-cousins-in-binary-tree.md)
   * [1026. Maximum Difference Between Node and Ancestor](tree/1026.-maximum-difference-between-node-and-ancestor.md)
   * [1302. Deepest Leaves Sum](tree/1302.-deepest-leaves-sum.md)
