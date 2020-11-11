@@ -308,6 +308,7 @@
   * [495. Teemo Attacking](array/495.-teemo-attacking.md)
   * [565. Array Nesting](array/565.-array-nesting.md)
   * [581. Shortest Unsorted Continuous Subarray](array/581.-shortest-unsorted-continuous-subarray.md)
+  * [593. Valid Square](array/593.-valid-square.md)
   * [665. Non-decreasing Array](array/untitled.md)
   * [667. Beautiful Arrangement II](array/untitled-1.md)
   * [747. Largest Number At Least Twice of Others](array/747.-largest-number-at-least-twice-of-others.md)
