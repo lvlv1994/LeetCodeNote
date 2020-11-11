@@ -330,6 +330,7 @@
 * [Two pointer](two-pointer/README.md)
   * [838. Push Dominoes](two-pointer/838.-push-dominoes.md)
   * [76. Minimum Window Substring](two-pointer/76.-minimum-window-substring.md)
+  * [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](two-pointer/1477.-find-two-non-overlapping-sub-arrays-each-with-target-sum.md)
   * [777. Swap Adjacent in LR String](two-pointer/777.-swap-adjacent-in-lr-string.md)
 * [Simulation](simulation/README.md)
   * [799. Champagne Tower](simulation/799.-champagne-tower.md)
