@@ -62,6 +62,7 @@
   * [364. Nested List Weight Sum II](dfs/364.-nested-list-weight-sum-ii.md)
   * [399. Evaluate Division](dfs/399.-evaluate-division.md)
   * [417. Pacific Atlantic Water Flow](dfs/untitled-1-1.md)
+  * [753. Cracking the Safe](dfs/753.-cracking-the-safe.md)
   * [756. Pyramid Transition Matrix](dfs/756.-pyramid-transition-matrix.md)
   * [785. Is Graph Bipartite?](dfs/785.-is-graph-bipartite.md)
   * [797. All Paths From Source to Target](dfs/797.-all-paths-from-source-to-target.md)
