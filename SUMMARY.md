@@ -66,6 +66,7 @@
   * [785. Is Graph Bipartite?](dfs/785.-is-graph-bipartite.md)
   * [797. All Paths From Source to Target](dfs/797.-all-paths-from-source-to-target.md)
   * [802. Find Eventual Safe States](dfs/802.-find-eventual-safe-states.md)
+  * [1376. Time Needed to Inform All Employees](dfs/1376.-time-needed-to-inform-all-employees.md)
 * [BSF](bsf/README.md)
   * [126. Word Ladder II](bsf/126.-word-ladder-ii.md)
   * [127. Word Ladder](bsf/127.-word-ladder.md)
