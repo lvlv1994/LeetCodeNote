@@ -272,6 +272,7 @@
   * [122. Best Time to Buy and Sell Stock II](math/122.-best-time-to-buy-and-sell-stock-ii.md)
   * [134. Gas Station](math/134.-gas-station.md)
   * [152. Maximum Product Subarray](math/152.-maximum-product-subarray.md)
+  * [166. Fraction to Recurring Decimal](math/166.-fraction-to-recurring-decimal.md)
   * [169. Majority Element](math/169.-majority-element.md)
   * [204. Count Primes](math/204.-count-primes-1.md)
   * [216. Combination Sum III](math/216.-combination-sum-iii.md)
