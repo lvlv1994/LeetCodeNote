@@ -282,6 +282,7 @@
   * [326. Power of Three](math/326.-power-of-three.md)
   * [412. Fizz Buzz](math/412.-fizz-buzz.md)
   * [425. Word Squares](math/425.-word-squares.md)
+  * [458. Poor Pigs](math/458.-poor-pigs.md)
   * [624. Maximum Distance in Arrays](math/624.-maximum-distance-in-arrays.md)
   * [713. Subarray Product Less Than K](math/713.-subarray-product-less-than-k.md)
   * [1041. Robot Bounded In Circle](math/1041.-robot-bounded-in-circle.md)
