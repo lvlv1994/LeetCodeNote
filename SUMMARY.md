@@ -230,6 +230,7 @@
   * [253. Meeting Rooms II](interval/253.-meeting-rooms-ii.md)
   * [452. Minimum Number of Arrows to Burst Balloons](interval/452.-minimum-number-of-arrows-to-burst-balloons.md)
   * [759. Employee Free Time](interval/759.-employee-free-time.md)
+  * [1272. Remove Interval](interval/1272.-remove-interval.md)
   * [1288. Remove Covered Intervals](interval/1288.-remove-covered-intervals.md)
 * [topological sort](topological-sort/README.md)
   * [218. The Skyline Problem](topological-sort/218.-the-skyline-problem.md)
