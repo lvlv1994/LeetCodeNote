@@ -322,6 +322,7 @@
   * [747. Largest Number At Least Twice of Others](array/747.-largest-number-at-least-twice-of-others.md)
   * [769. Max Chunks To Make Sorted](array/769.-max-chunks-to-make-sorted.md)
   * [832. Flipping an Image](array/832.-flipping-an-image.md)
+  * [845. Longest Mountain in Array](array/845.-longest-mountain-in-array.md)
   * [849. Maximize Distance to Closest Person](array/849.-maximize-distance-to-closest-person.md)
   * [1167. Minimum Cost to Connect Sticks](array/1167.-minimum-cost-to-connect-sticks.md)
   * [1217. Minimum Cost to Move Chips to The Same Position](array/1217.-minimum-cost-to-move-chips-to-the-same-position.md)
