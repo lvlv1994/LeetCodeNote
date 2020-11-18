@@ -320,6 +320,7 @@
   * [593. Valid Square](array/593.-valid-square.md)
   * [665. Non-decreasing Array](array/untitled.md)
   * [667. Beautiful Arrangement II](array/untitled-1.md)
+  * [682. Baseball Game](array/682.-baseball-game.md)
   * [747. Largest Number At Least Twice of Others](array/747.-largest-number-at-least-twice-of-others.md)
   * [769. Max Chunks To Make Sorted](array/769.-max-chunks-to-make-sorted.md)
   * [832. Flipping an Image](array/832.-flipping-an-image.md)
