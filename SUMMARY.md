@@ -349,6 +349,9 @@
   * [777. Swap Adjacent in LR String](two-pointer/777.-swap-adjacent-in-lr-string.md)
 * [Simulation](simulation/README.md)
   * [799. Champagne Tower](simulation/799.-champagne-tower.md)
+  * [843. Guess the Word](simulation/843.-guess-the-word.md)
+* [Deque](deque/README.md)
+  * [239. Sliding Window Maximum](deque/239.-sliding-window-maximum.md)
 * [Greedy](greedy/README.md)
   * [948. Bag of Tokens](greedy/948.-bag-of-tokens.md)
 
