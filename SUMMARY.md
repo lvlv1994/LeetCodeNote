@@ -224,6 +224,7 @@
   * [271. Encode and Decode Strings](system-design/271.-encode-and-decode-strings.md)
   * [1472. Design Browser History](system-design/1472.-design-browser-history.md)
 * [Interval](interval/README.md)
+  * [56. Merge Intervals](interval/56.-merge-intervals-1.md)
   * [57. Insert Interval](interval/57.-insert-interval.md)
   * [163. Missing Ranges](interval/163.-missing-ranges.md)
   * [56. Merge Intervals](interval/56.-merge-intervals.md)
