@@ -279,6 +279,7 @@
   * [169. Majority Element](math/169.-majority-element.md)
   * [204. Count Primes](math/204.-count-primes-1.md)
   * [216. Combination Sum III](math/216.-combination-sum-iii.md)
+  * [227. Basic Calculator II](math/227.-basic-calculator-ii.md)
   * [229. Majority Element II](math/229.-majority-element-ii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
