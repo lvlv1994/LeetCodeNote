@@ -355,6 +355,7 @@
   * [843. Guess the Word](simulation/843.-guess-the-word.md)
 * [Deque](deque/README.md)
   * [239. Sliding Window Maximum](deque/239.-sliding-window-maximum.md)
+  * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](deque/1438.-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.md)
 * [Greedy](greedy/README.md)
   * [948. Bag of Tokens](greedy/948.-bag-of-tokens.md)
 
