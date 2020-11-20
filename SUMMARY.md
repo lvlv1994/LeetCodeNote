@@ -354,6 +354,7 @@
 * [Simulation](simulation/README.md)
   * [799. Champagne Tower](simulation/799.-champagne-tower.md)
   * [843. Guess the Word](simulation/843.-guess-the-word.md)
+  * [946. Validate Stack Sequences](simulation/946.-validate-stack-sequences.md)
 * [Deque](deque/README.md)
   * [239. Sliding Window Maximum](deque/239.-sliding-window-maximum.md)
   * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](deque/1438.-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.md)
