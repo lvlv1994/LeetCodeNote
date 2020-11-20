@@ -311,6 +311,7 @@
   * [228. Summary Ranges](array/228.-summary-ranges.md)
   * [247. Strobogrammatic Number II](array/247.-strobogrammatic-number-ii.md)
   * [283. Move Zeroes](array/283.-move-zeroes.md)
+  * [394. Decode String](array/394.-decode-string.md)
   * [316. Remove Duplicate Letters](array/316.-remove-duplicate-letters.md)
   * [340. Longest Substring with At Most K Distinct Characters](array/340.-longest-substring-with-at-most-k-distinct-characters.md)
   * [344. Reverse String](array/344.-reverse-string.md)
