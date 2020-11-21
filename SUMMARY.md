@@ -330,6 +330,7 @@
   * [832. Flipping an Image](array/832.-flipping-an-image.md)
   * [845. Longest Mountain in Array](array/845.-longest-mountain-in-array.md)
   * [849. Maximize Distance to Closest Person](array/849.-maximize-distance-to-closest-person.md)
+  * [929. Unique Email Addresses](array/929.-unique-email-addresses.md)
   * [1167. Minimum Cost to Connect Sticks](array/1167.-minimum-cost-to-connect-sticks.md)
   * [1217. Minimum Cost to Move Chips to The Same Position](array/1217.-minimum-cost-to-move-chips-to-the-same-position.md)
   * [1446. Consecutive Characters](array/1446.-consecutive-characters.md)
