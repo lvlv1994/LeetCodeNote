@@ -350,6 +350,7 @@
   * [76. Minimum Window Substring](two-pointer/76.-minimum-window-substring.md)
   * [1423. Maximum Points You Can Obtain from Cards](two-pointer/1423.-maximum-points-you-can-obtain-from-cards.md)
   * [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](two-pointer/1477.-find-two-non-overlapping-sub-arrays-each-with-target-sum.md)
+  * [727. Minimum Window Subsequence](two-pointer/727.-minimum-window-subsequence.md)
   * [777. Swap Adjacent in LR String](two-pointer/777.-swap-adjacent-in-lr-string.md)
 * [Simulation](simulation/README.md)
   * [799. Champagne Tower](simulation/799.-champagne-tower.md)
