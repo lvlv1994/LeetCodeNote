@@ -289,6 +289,7 @@
   * [412. Fizz Buzz](math/412.-fizz-buzz.md)
   * [425. Word Squares](math/425.-word-squares.md)
   * [458. Poor Pigs](math/458.-poor-pigs.md)
+  * [621. Task Scheduler](math/621.-task-scheduler.md)
   * [624. Maximum Distance in Arrays](math/624.-maximum-distance-in-arrays.md)
   * [713. Subarray Product Less Than K](math/713.-subarray-product-less-than-k.md)
   * [772. Basic Calculator III](math/772.-basic-calculator-iii.md)
