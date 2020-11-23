@@ -284,6 +284,7 @@
   * [229. Majority Element II](math/229.-majority-element-ii.md)
   * [233. Number of Digit One](math/233.-number-of-digit-one.md)
   * [204. Count Primes](math/204.-count-primes.md)
+  * [296. Best Meeting Point](math/296.-best-meeting-point.md)
   * [308. Range Sum Query 2D - Mutable](math/308.-range-sum-query-2d-mutable.md)
   * [326. Power of Three](math/326.-power-of-three.md)
   * [412. Fizz Buzz](math/412.-fizz-buzz.md)
