@@ -345,6 +345,7 @@
   * [190. Reverse Bits](bitwise/190.-reverse-bits.md)
   * [191. Number of 1 Bits](bitwise/191.-number-of-1-bits.md)
   * [268. Missing Number](bitwise/268.-missing-number.md)
+  * [318. Maximum Product of Word Lengths](bitwise/318.-maximum-product-of-word-lengths-1.md)
   * [389. Find the Difference](bitwise/389.-find-the-difference.md)
   * [401. Binary Watch](bitwise/untitled.md)
   * [231. Power of Two](bitwise/231.-power-of-two.md)
