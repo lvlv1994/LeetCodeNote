@@ -138,6 +138,7 @@
   * [416. Partition Equal Subset Sum](dynamic-programming/416.-partition-equal-subset-sum.md)
   * [471. Encode String with Shortest Length](dynamic-programming/471.-encode-string-with-shortest-length.md)
   * [494. Target Sum](dynamic-programming/494.-target-sum.md)
+  * [403. Frog Jump](dynamic-programming/403.-frog-jump.md)
   * [518 Coin Change 2](dynamic-programming/untitled.md)
   * [568. Maximum Vacation Days](dynamic-programming/568.-maximum-vacation-days.md)
   * [House Robber III](dynamic-programming/house-robber-iii.md)
